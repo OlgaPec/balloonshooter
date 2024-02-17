@@ -20,3 +20,15 @@ C:\Users\Student\source\repos\Nejlepší skore 11-A-00 Ballloon Shooter 9-A-02\b
 C:\Users\Student\source\repos\Nejlepší skore 11-A-00 Ballloon Shooter 9-A-02\bin\Debug\Ballloon Shooter 9-A-02.pdb
 C:\Users\Student\source\repos\Nejlepší skore 11-A-00 Ballloon Shooter 9-A-02\obj\Debug\BalloonShooter.ScoresForm.resources
 C:\Users\Student\source\repos\Nejlepší skore 11-A-00 Ballloon Shooter 9-A-02\bin\Debug\scores.txt
+C:\Users\Student\source\repos\BalloonShooter\bin\Debug\scores.txt
+C:\Users\Student\source\repos\BalloonShooter\bin\Debug\Ballloon Shooter 9-A-02.exe.config
+C:\Users\Student\source\repos\BalloonShooter\bin\Debug\Ballloon Shooter 9-A-02.exe
+C:\Users\Student\source\repos\BalloonShooter\bin\Debug\Ballloon Shooter 9-A-02.pdb
+C:\Users\Student\source\repos\BalloonShooter\obj\Debug\BalloonShooter.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\BalloonShooter\obj\Debug\BalloonShooter.Form1.resources
+C:\Users\Student\source\repos\BalloonShooter\obj\Debug\Ballloon_Shooter_9_A_02.Properties.Resources.resources
+C:\Users\Student\source\repos\BalloonShooter\obj\Debug\BalloonShooter.ScoresForm.resources
+C:\Users\Student\source\repos\BalloonShooter\obj\Debug\BalloonShooter.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\BalloonShooter\obj\Debug\BalloonShooter.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\BalloonShooter\obj\Debug\Ballloon Shooter 9-A-02.exe
+C:\Users\Student\source\repos\BalloonShooter\obj\Debug\Ballloon Shooter 9-A-02.pdb

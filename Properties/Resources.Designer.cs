@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Ballloon_Shooter_9_A_02.Properties
+namespace BalloonShooter.Properties
 {
 
 
